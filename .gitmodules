@@ -1,0 +1,3 @@
+[submodule "flynk-id"]
+	path = flynk-id
+	url = git@github.com:kontumloxo/flynk-id.git
